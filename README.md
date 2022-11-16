@@ -2,6 +2,7 @@
 An angular application to calculate netpay and salary deductions for Ugandan employees. 
 
 BACKEND. Express.js
+
 FRONTEND. Angular
 
 ### Setting up the project to run on a local machine
@@ -19,7 +20,7 @@ $ git clone https://github.com/Onroe/angular-netpaycalculator.git
    ```
 3. Open another cmd, navigate to frontend and run
 
-  ```
+   ```
    npm start
    
    ```
